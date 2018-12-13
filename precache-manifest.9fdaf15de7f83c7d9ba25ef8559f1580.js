@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "68096ff957fd733435ff2ef2aa0dbdef",
-    "url": "/static/media/coral.68096ff9.png"
+    "revision": "6822d84025e56d8f51f759bff8c44023",
+    "url": "/static/media/showcase_vectors_mobile.6822d840.png"
   },
   {
-    "revision": "1281c8a137d519b3aa36",
-    "url": "/static/css/main.0c806ecf.chunk.css"
+    "revision": "cceb86887bfb7f070679",
+    "url": "/static/css/main.05b371b8.chunk.css"
   },
   {
     "revision": "41be94d7b80fe2e24b6d7eadb15ab254",
     "url": "/static/media/agentportal_ux.41be94d7.png"
   },
   {
-    "revision": "1cc5b8807b66a65d0643",
-    "url": "/static/js/1.1cc5b880.chunk.js"
+    "revision": "5eb535d07b96a5991e26",
+    "url": "/static/js/1.5eb535d0.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -36,6 +36,10 @@ self.__precacheManifest = [
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
+    "revision": "5bb7a456fbe99b11f02e4b1b667b64aa",
+    "url": "/static/media/CV_AWAIS.5bb7a456.pdf"
+  },
+  {
     "revision": "8fbe4078cfdb21eea5ff1e328da366ad",
     "url": "/static/media/accolade.8fbe4078.png"
   },
@@ -56,12 +60,12 @@ self.__precacheManifest = [
     "url": "/static/media/showcase_vectors.deb68dc6.png"
   },
   {
-    "revision": "6822d84025e56d8f51f759bff8c44023",
-    "url": "/static/media/showcase_vectors_mobile.6822d840.png"
+    "revision": "cceb86887bfb7f070679",
+    "url": "/static/js/main.cceb8688.chunk.js"
   },
   {
-    "revision": "1281c8a137d519b3aa36",
-    "url": "/static/js/main.1281c8a1.chunk.js"
+    "revision": "68096ff957fd733435ff2ef2aa0dbdef",
+    "url": "/static/media/coral.68096ff9.png"
   },
   {
     "revision": "b323236a1290bf73ea77da49da2973d3",
@@ -112,11 +116,11 @@ self.__precacheManifest = [
     "url": "/static/media/mastercard_ux.7930f8b7.png"
   },
   {
-    "revision": "1cc5b8807b66a65d0643",
-    "url": "/static/css/1.72dbbb8d.chunk.css"
+    "revision": "5eb535d07b96a5991e26",
+    "url": "/static/css/1.13ef4ecf.chunk.css"
   },
   {
-    "revision": "bbe1ab84ab9c60dfbbc3611309a76e0a",
+    "revision": "ccd994a7283da49ef8f1c347abe6cbb4",
     "url": "/index.html"
   }
 ];
