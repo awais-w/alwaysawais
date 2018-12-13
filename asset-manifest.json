@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.043ee2d8.chunk.css",
-  "main.js": "/static/js/main.6d93099c.chunk.js",
-  "main.js.map": "/static/js/main.6d93099c.chunk.js.map",
+  "main.css": "/static/css/main.a4280825.chunk.css",
+  "main.js": "/static/js/main.351040a3.chunk.js",
+  "main.js.map": "/static/js/main.351040a3.chunk.js.map",
   "static/css/1.72dbbb8d.chunk.css": "/static/css/1.72dbbb8d.chunk.css",
   "static/js/1.1cc5b880.chunk.js": "/static/js/1.1cc5b880.chunk.js",
   "static/js/1.1cc5b880.chunk.js.map": "/static/js/1.1cc5b880.chunk.js.map",
@@ -11,8 +11,7 @@
   "static/media/slick-theme.css": "/static/media/slick.b7c9e1e4.woff",
   "static/media/accolade.png": "/static/media/accolade.394265c3.png",
   "static/media/ulster_dev.png": "/static/media/ulster_dev.29f7600f.png",
-  "static/media/figureHead.png": "/static/media/figureHead.01f26860.png",
-  "static/media/figureBody.png": "/static/media/figureBody.2ccc7a69.png",
+  "static/media/figureHead.png": "/static/media/figureHead.27b5c69a.png",
   "static/media/workdesk.png": "/static/media/workdesk.6cdda3cd.png",
   "static/media/showcase_vectors.png": "/static/media/showcase_vectors.deb68dc6.png",
   "static/media/showcase_vectors_mobile.png": "/static/media/showcase_vectors_mobile.6822d840.png",
@@ -29,9 +28,9 @@
   "static/media/rbs_ux.png": "/static/media/rbs_ux.49b5a61d.png",
   "static/media/mastercard_ux.png": "/static/media/mastercard_ux.b5b5ebca.png",
   "static/media/agentportal_ux.png": "/static/media/agentportal_ux.5550efc2.png",
-  "static/css/main.043ee2d8.chunk.css.map": "/static/css/main.043ee2d8.chunk.css.map",
+  "static/css/main.a4280825.chunk.css.map": "/static/css/main.a4280825.chunk.css.map",
   "static/css/1.72dbbb8d.chunk.css.map": "/static/css/1.72dbbb8d.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.ece7832a6a4e542f0ba7512707aa8d36.js": "/precache-manifest.ece7832a6a4e542f0ba7512707aa8d36.js",
+  "precache-manifest.671d29613973d57354777a29981337a0.js": "/precache-manifest.671d29613973d57354777a29981337a0.js",
   "service-worker.js": "/service-worker.js"
 }
