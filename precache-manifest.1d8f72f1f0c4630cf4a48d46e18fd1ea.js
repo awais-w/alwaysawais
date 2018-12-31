@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "2edc6f566ce428b3b800",
-    "url": "/static/css/main.05b371b8.chunk.css"
+    "revision": "1e78514d97e4a1f4d76b",
+    "url": "/static/css/main.2c44013d.chunk.css"
   },
   {
-    "revision": "2edc6f566ce428b3b800",
-    "url": "/static/js/main.2edc6f56.chunk.js"
+    "revision": "1e78514d97e4a1f4d76b",
+    "url": "/static/js/main.1e78514d.chunk.js"
   },
   {
-    "revision": "5e5ec291cdb2b4b812de",
-    "url": "/static/css/1.13ef4ecf.chunk.css"
+    "revision": "f71917fb2e02b83fd2b0",
+    "url": "/static/css/1.9309d792.chunk.css"
   },
   {
-    "revision": "5e5ec291cdb2b4b812de",
-    "url": "/static/js/1.5e5ec291.chunk.js"
+    "revision": "f71917fb2e02b83fd2b0",
+    "url": "/static/js/1.f71917fb.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "cfe8ac401ce1972bb5068d8980b0de70",
-    "url": "/static/media/CV_AWAIS.cfe8ac40.pdf"
+    "revision": "8dc90a79b8bf9c4446dce25d984015bf",
+    "url": "/static/media/UI-UX_Designer(AWAIS_CV).8dc90a79.pdf"
   },
   {
     "revision": "8fbe4078cfdb21eea5ff1e328da366ad",
@@ -64,10 +64,6 @@ self.__precacheManifest = [
     "url": "/static/media/showcase_vectors_mobile.6822d840.png"
   },
   {
-    "revision": "68096ff957fd733435ff2ef2aa0dbdef",
-    "url": "/static/media/coral.68096ff9.png"
-  },
-  {
     "revision": "b323236a1290bf73ea77da49da2973d3",
     "url": "/static/media/profile_vectors.b323236a.png"
   },
@@ -78,6 +74,10 @@ self.__precacheManifest = [
   {
     "revision": "f9690cfaefb3b86483de287e513c08e9",
     "url": "/static/media/hireme.f9690cfa.png"
+  },
+  {
+    "revision": "a141e6eda6ef3000e36a6f0ba00566d6",
+    "url": "/static/media/insta.a141e6ed.svg"
   },
   {
     "revision": "2d09e7bf005bece5c17d02f02b46776f",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/static/media/agentportal_ux.41be94d7.png"
   },
   {
-    "revision": "1514ebcd42e8bbf9ce8728eaf320d6cc",
+    "revision": "d8d714d265f8774891cdc7da7a46ae48",
     "url": "/index.html"
   }
 ];
