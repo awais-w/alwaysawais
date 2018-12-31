@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1e78514d97e4a1f4d76b",
+    "revision": "e63249f34a8a20140bb6",
     "url": "/static/css/main.2c44013d.chunk.css"
   },
   {
-    "revision": "1e78514d97e4a1f4d76b",
-    "url": "/static/js/main.1e78514d.chunk.js"
+    "revision": "e63249f34a8a20140bb6",
+    "url": "/static/js/main.e63249f3.chunk.js"
   },
   {
     "revision": "f71917fb2e02b83fd2b0",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "8dc90a79b8bf9c4446dce25d984015bf",
-    "url": "/static/media/UI-UX_Designer(AWAIS_CV).8dc90a79.pdf"
+    "revision": "bac174464399906ecd1cc0eabc805255",
+    "url": "/static/media/UI-UX_Designer(AWAIS_CV).bac17446.pdf"
   },
   {
     "revision": "8fbe4078cfdb21eea5ff1e328da366ad",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/static/media/agentportal_ux.41be94d7.png"
   },
   {
-    "revision": "d8d714d265f8774891cdc7da7a46ae48",
+    "revision": "67cf08fd7618bd6f889d705e2931e844",
     "url": "/index.html"
   }
 ];
