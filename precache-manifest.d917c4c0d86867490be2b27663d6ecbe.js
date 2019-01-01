@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e63249f34a8a20140bb6",
+    "revision": "6047363c7b8c02c41f4a",
     "url": "/static/css/main.2c44013d.chunk.css"
   },
   {
-    "revision": "e63249f34a8a20140bb6",
-    "url": "/static/js/main.e63249f3.chunk.js"
+    "revision": "6047363c7b8c02c41f4a",
+    "url": "/static/js/main.6047363c.chunk.js"
   },
   {
     "revision": "f71917fb2e02b83fd2b0",
@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "bac174464399906ecd1cc0eabc805255",
-    "url": "/static/media/UI-UX_Designer(AWAIS_CV).bac17446.pdf"
+    "revision": "8998e7e76be9d63b6c6223fc7e247c49",
+    "url": "/static/media/UI-UX_Designer(AWAIS_CV).8998e7e7.pdf"
   },
   {
     "revision": "8fbe4078cfdb21eea5ff1e328da366ad",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/static/media/agentportal_ux.41be94d7.png"
   },
   {
-    "revision": "67cf08fd7618bd6f889d705e2931e844",
+    "revision": "6deb07560b354e8387c9f867e85f697b",
     "url": "/index.html"
   }
 ];

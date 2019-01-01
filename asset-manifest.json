@@ -1,14 +1,14 @@
 {
   "main.css": "/static/css/main.2c44013d.chunk.css",
-  "main.js": "/static/js/main.e63249f3.chunk.js",
-  "main.js.map": "/static/js/main.e63249f3.chunk.js.map",
+  "main.js": "/static/js/main.6047363c.chunk.js",
+  "main.js.map": "/static/js/main.6047363c.chunk.js.map",
   "static/css/1.9309d792.chunk.css": "/static/css/1.9309d792.chunk.css",
   "static/js/1.f71917fb.chunk.js": "/static/js/1.f71917fb.chunk.js",
   "static/js/1.f71917fb.chunk.js.map": "/static/js/1.f71917fb.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
-  "static/media/UI-UX_Designer(AWAIS_CV).pdf": "/static/media/UI-UX_Designer(AWAIS_CV).bac17446.pdf",
+  "static/media/UI-UX_Designer(AWAIS_CV).pdf": "/static/media/UI-UX_Designer(AWAIS_CV).8998e7e7.pdf",
   "static/media/accolade.png": "/static/media/accolade.8fbe4078.png",
   "static/media/ulster_dev.png": "/static/media/ulster_dev.fee30421.png",
   "static/media/figureHead.png": "/static/media/figureHead.09fa9c9d.png",
@@ -32,6 +32,6 @@
   "static/css/main.2c44013d.chunk.css.map": "/static/css/main.2c44013d.chunk.css.map",
   "static/css/1.9309d792.chunk.css.map": "/static/css/1.9309d792.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.37e4ed0ded75db9800114c07cedd2a34.js": "/precache-manifest.37e4ed0ded75db9800114c07cedd2a34.js",
+  "precache-manifest.d917c4c0d86867490be2b27663d6ecbe.js": "/precache-manifest.d917c4c0d86867490be2b27663d6ecbe.js",
   "service-worker.js": "/service-worker.js"
 }
