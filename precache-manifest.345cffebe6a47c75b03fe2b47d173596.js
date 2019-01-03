@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9ba24568a06d6e887e91",
+    "revision": "f419a000dc93cef2a4f9",
     "url": "/static/css/main.2c44013d.chunk.css"
   },
   {
-    "revision": "9ba24568a06d6e887e91",
-    "url": "/static/js/main.9ba24568.chunk.js"
+    "revision": "f419a000dc93cef2a4f9",
+    "url": "/static/js/main.f419a000.chunk.js"
   },
   {
     "revision": "f71917fb2e02b83fd2b0",
@@ -20,6 +20,10 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/static/media/slick.d41f55a7.ttf"
+  },
+  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/static/media/slick.b7c9e1e4.woff"
   },
@@ -28,16 +32,12 @@ self.__precacheManifest = [
     "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
-  },
-  {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "8998e7e76be9d63b6c6223fc7e247c49",
-    "url": "/static/media/UI-UX_Designer(AWAIS_CV).8998e7e7.pdf"
+    "revision": "dc03feb8466b11e678cbe0e8d3d69c2c",
+    "url": "/static/media/UI-UX_Designer(AWAIS_CV).dc03feb8.pdf"
   },
   {
     "revision": "8fbe4078cfdb21eea5ff1e328da366ad",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/static/media/agentportal_ux.41be94d7.png"
   },
   {
-    "revision": "592f79c237109b5c653770674b02e943",
+    "revision": "f8322c1128ffcf56d204454d298250ff",
     "url": "/index.html"
   }
 ];
