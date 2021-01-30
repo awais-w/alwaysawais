@@ -1,27 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "f9e4582509e878bd3f1d",
-    "url": "/static/css/main.576966ee.chunk.css"
+    "revision": "4830699d8c74bb7e965e",
+    "url": "/static/css/main.32c90083.chunk.css"
   },
   {
-    "revision": "f9e4582509e878bd3f1d",
-    "url": "/static/js/main.f9e45825.chunk.js"
+    "revision": "4830699d8c74bb7e965e",
+    "url": "/static/js/main.4830699d.chunk.js"
   },
   {
-    "revision": "d13bb4d102f1f4047d7e",
-    "url": "/static/css/1.dd4efaa2.chunk.css"
+    "revision": "d8fde5f6a830d85bb9d6",
+    "url": "/static/css/1.1d40c357.chunk.css"
   },
   {
-    "revision": "d13bb4d102f1f4047d7e",
-    "url": "/static/js/1.d13bb4d1.chunk.js"
+    "revision": "d8fde5f6a830d85bb9d6",
+    "url": "/static/js/1.d8fde5f6.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
-  },
-  {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",
@@ -36,8 +32,12 @@ self.__precacheManifest = [
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "dc03feb8466b11e678cbe0e8d3d69c2c",
-    "url": "/static/media/UI-UX_Designer(AWAIS_CV).dc03feb8.pdf"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "0174f7ac7bca4749bd9184e08506d519",
+    "url": "/static/media/CV_AWAIS.0174f7ac.pdf"
   },
   {
     "revision": "8fbe4078cfdb21eea5ff1e328da366ad",
@@ -64,6 +64,10 @@ self.__precacheManifest = [
     "url": "/static/media/showcase_vectors_mobile.6822d840.png"
   },
   {
+    "revision": "68096ff957fd733435ff2ef2aa0dbdef",
+    "url": "/static/media/coral.68096ff9.png"
+  },
+  {
     "revision": "b323236a1290bf73ea77da49da2973d3",
     "url": "/static/media/profile_vectors.b323236a.png"
   },
@@ -74,10 +78,6 @@ self.__precacheManifest = [
   {
     "revision": "f9690cfaefb3b86483de287e513c08e9",
     "url": "/static/media/hireme.f9690cfa.png"
-  },
-  {
-    "revision": "a141e6eda6ef3000e36a6f0ba00566d6",
-    "url": "/static/media/insta.a141e6ed.svg"
   },
   {
     "revision": "2d09e7bf005bece5c17d02f02b46776f",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/static/media/agentportal_ux.41be94d7.png"
   },
   {
-    "revision": "ede7bab495185e337f33ce6eb0f35f87",
+    "revision": "03d0e73bfbbd60b899b6754a7ff95b45",
     "url": "/index.html"
   }
 ];
