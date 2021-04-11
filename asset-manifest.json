@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.f98b789e.chunk.css",
-  "main.js": "/static/js/main.b514aabc.chunk.js",
-  "main.js.map": "/static/js/main.b514aabc.chunk.js.map",
+  "main.js": "/static/js/main.256fd22c.chunk.js",
+  "main.js.map": "/static/js/main.256fd22c.chunk.js.map",
   "static/css/1.681f5f27.chunk.css": "/static/css/1.681f5f27.chunk.css",
   "static/js/1.9321aa05.chunk.js": "/static/js/1.9321aa05.chunk.js",
   "static/js/1.9321aa05.chunk.js.map": "/static/js/1.9321aa05.chunk.js.map",
@@ -17,7 +17,7 @@
   "static/media/showcase_vectors_mobile.png": "/static/media/showcase_vectors_mobile.6822d840.png",
   "static/media/sainsburys.png": "/static/media/sainsburys.1f5372e1.png",
   "static/media/argos.png": "/static/media/argos.7900f80c.png",
-  "static/media/si.png": "/static/media/si.bf2277c5.png",
+  "static/media/si.png": "/static/media/si.8111a9b5.png",
   "static/media/coral.png": "/static/media/coral.68096ff9.png",
   "static/media/profile_vectors.png": "/static/media/profile_vectors.b323236a.png",
   "static/media/profile_vectors_mobile.png": "/static/media/profile_vectors_mobile.89de1521.png",
@@ -35,6 +35,6 @@
   "static/css/main.f98b789e.chunk.css.map": "/static/css/main.f98b789e.chunk.css.map",
   "static/css/1.681f5f27.chunk.css.map": "/static/css/1.681f5f27.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.ab042a81e20f2a8b3d994e2e1db15199.js": "/precache-manifest.ab042a81e20f2a8b3d994e2e1db15199.js",
+  "precache-manifest.92ad320a1de4359c1963808c493d194c.js": "/precache-manifest.92ad320a1de4359c1963808c493d194c.js",
   "service-worker.js": "/service-worker.js"
 }
